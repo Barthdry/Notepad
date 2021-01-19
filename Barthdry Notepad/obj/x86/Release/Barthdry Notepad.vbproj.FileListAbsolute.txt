@@ -1,0 +1,16 @@
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Release\Barthdry Notepad.exe.config
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Release\Barthdry Notepad.exe
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Release\Barthdry Notepad.pdb
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Release\Barthdry Notepad.xml
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.frmColourChooser.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.frmAbout.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.findReplaceForm.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.EditorForm.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.frmHelp.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.frmAddFile.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry_Notepad.Resources.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry Notepad.vbproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry Notepad.exe
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry Notepad.xml
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry Notepad.pdb
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Release\Barthdry Notepad.exe.manifest

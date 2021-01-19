@@ -1,0 +1,30 @@
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\bin\Debug\CuBe Notepad.exe.config
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\bin\Debug\CuBe Notepad.exe
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\bin\Debug\CuBe Notepad.pdb
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\bin\Debug\CuBe Notepad.xml
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmColourChooser.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmAbout.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.findReplaceForm.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.EditorForm.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmHelp.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmAddFile.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.Resources.resources
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\Barthdry Notepad.vbproj.GenerateResource.Cache
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\CuBe Notepad.exe
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\CuBe Notepad.xml
+C:\Users\toshiba\AppData\Local\Temporary Projects\Barthdry Notepad\obj\x86\Debug\CuBe Notepad.pdb
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Debug\Barthdry Notepad.exe.config
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Debug\Barthdry Notepad.exe
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Debug\Barthdry Notepad.pdb
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\bin\Debug\Barthdry Notepad.xml
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmColourChooser.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmAbout.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.findReplaceForm.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.EditorForm.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmHelp.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.frmAddFile.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry_Notepad.Resources.resources
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry Notepad.vbproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry Notepad.exe
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry Notepad.xml
+C:\Users\toshiba\Desktop\Programming\VB.Net 2010\Barthdry Notepad\Barthdry Notepad\obj\x86\Debug\Barthdry Notepad.pdb
